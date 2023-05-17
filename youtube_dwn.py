@@ -14,7 +14,8 @@ def dwn():
 
 
 win = Tk()
-win.iconbitmap(default="path_to_ico_file")
+# uncomment as needed
+# win.iconbitmap(default="path_to_ico_file")
 win.title("YouTube Downloader")
 win.geometry("640x100")
 
